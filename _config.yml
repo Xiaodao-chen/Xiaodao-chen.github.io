@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xiaodao's Website"
 title_separator          : "-"
 name                     : &name "Hongming Chen (陈鸿铭)"
-description              : &description "B.Eng, Embedded System, UESTC| Former DJI intern| Former Research assistant at ZJU-FAST-Lab | SYSU maphi canidate"
+description              : &description "B.Eng, Embedded System, UESTC| Former DJI intern| Former Research assistant at ZJU-FAST-Lab | SYSU MPhil canidate"
 url                      : https://xiaodao-chen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Xiaodao-chen/xiaodao-chen.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xiaodao Chen"
   avatar           : "cxd.jpeg"
-  bio              : "B.Eng, Embedded System, UESTC| Former DJI intern| Former Research assistant at ZJU-FAST-Lab | SYSU maphi canidate"
+  bio              : "B.Eng, Embedded System, UESTC| Former DJI intern| Former Research assistant at ZJU-FAST-Lab | SYSU MPhil canidate"
   location         : "Chengdu, Sichuan China"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
