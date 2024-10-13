@@ -16,7 +16,7 @@ My research interests include the aeras of **Robotics** and **Scene Understandin
 * Semantic navigation
 * State Esimation
 
-Feel free to ask me about UAV, Jetson Orin, Motion planning, Computer network, RTOS. Please contactme at <xiaodao.chem@gmail.com>.
+Feel free to ask me about UAV, Jetson Orin, Motion planning, Computer network, RTOS. Please contact me at <xiaodao.chem@gmail.com>.
 
 Education
 ======
@@ -34,7 +34,7 @@ Selected Honors
 ======
 * **Outstanding Graduates of UESTC**, 2024, UESTC
 * **UESTC Scholarship**, 2021, 2022, 2023, UESTC
-* **National Network Challenge Competition National Third-tier Award**, 2022 Association of Fundamental Computing Education in Chinese Universities
+* **National Network Challenge Competition National Third-tier Prize**, 2022 Association of Fundamental Computing Education in Chinese Universities
 * **National Embedded Competition National Third-tier Prize**, 2022 Chinese Institute of Electronics
 
 <!-- Community Services

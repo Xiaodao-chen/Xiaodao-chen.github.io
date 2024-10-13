@@ -20,3 +20,5 @@ collection: portfolio
 <img src='/images/avp.gif' width='500'>
 <img src='/images/avp-planning.gif' width='500'> -->
  <a href="https://github.com/Xiaodao-chen/fly-pig"><img alt="Code" src="https://img.shields.io/github/stars/Xiaodao-chen/fly-pig" /></a>
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=zw1CZ4g3Kbf6u9w4XDWIXx-bCowhVDbx6o6tsQXJeIE&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
