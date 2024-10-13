@@ -27,6 +27,27 @@ author_profile: true
           </tr>
     </table>
 
+    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+              <img src="../images/luqi-tro.jpeg" alt="hpp" style="border-style: none" >
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+                <papertitle>Autonomous Flights inside Narrow Tunnels
+                </papertitle>
+              <br>
+                 Luqi Wang, Yan Ning, <strong>Hongming Chen</strong>, Peize Liu, Hao Xu, Ximin Lyu, Shaojie Shen
+              <br>
+              <em> IEEE Transactions on Robotics (T-RO) underview </em><br>
+              <!-- <a href="https://ieeexplore.ieee.org/document/10602533"><img src="https://img.shields.io/badge/Paper-IEEE RAL-004088.svg"/></a> -->
+              <!-- <a href="https://arxiv.org/abs/2403.10821"><img src="https://img.shields.io/badge/ArXiv-2403.10821-da282a.svg"/></a> -->
+              <!-- <a href="https://github.com/SYSU-STAR/H3-Mapping/stargazers"><img alt="Code" src="https://img.shields.io/github/stars/SYSU-STAR/H3-Mapping" /></a> -->
+              <!-- <a href="https://youtu.be/V_V_5q0V1iI"><img alt="Youtube" src="https://img.shields.io/badge/Video-Youtube-red"/></a> -->
+              <!-- <a href="https://www.bilibili.com/video/BV16Zt5eBEPW"><img alt="Bilibili" src="https://img.shields.io/badge/Video-Bilibili-blue"/></a> -->
+            </td>
+          </tr>
+    </table>
+
 
 </html>
 

@@ -37,3 +37,8 @@ _config.yml
 about.md
 publications.md
 ```
+
+Action
+```
+bundle exec jekyll serve -l -H localhost  
+```
