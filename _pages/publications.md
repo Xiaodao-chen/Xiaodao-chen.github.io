@@ -39,7 +39,7 @@ author_profile: true
               <br>
                 <strong>Hongming Chen</strong>, Biyu Ye, Xianqi Liang, Weiliang Deng, Ximin Lyu
               <br>
-              <em>Submitted to IEEE International Conference on Robotics and Automation (ICRA), 2025.</em><br>
+              <em>IEEE International Conference on Robotics and Automation (ICRA), 2025.</em><br>
               <!-- <a href="https://ieeexplore.ieee.org/document/10602533"><img src="https://img.shields.io/badge/Paper-IEEE RAL-004088.svg"/></a> -->
               <a href="https://arxiv.org/abs/2501.06122"><img src="https://img.shields.io/badge/ArXiv-2501.06122-da282a.svg"/></a>
               <!-- <a href="https://github.com/SYSU-STAR/H3-Mapping/stargazers"><img alt="Code" src="https://img.shields.io/github/stars/SYSU-STAR/H3-Mapping" /></a> -->
@@ -58,9 +58,9 @@ author_profile: true
                 <papertitle>Autonomous Flights inside Narrow Tunnels
                 </papertitle>
               <br>
-                 Luqi Wang, Yan Ning, <strong>Hongming Chen</strong>, Peize Liu, Hao Xu, Ximin Lyu, Shaojie Shen
+                 Luqi Wang, Yan Ning, <strong>Hongming Chen</strong>, Peize Liu, Yang Xu, Hao Xu, Ximin Lyu, Shaojie Shen
               <br>
-              <em> IEEE Transactions on Robotics (T-RO) underview </em><br>
+              <em> IEEE Transactions on Robotics (T-RO) </em><br>
               <!-- <a href="https://ieeexplore.ieee.org/document/10602533"><img src="https://img.shields.io/badge/Paper-IEEE RAL-004088.svg"/></a> -->
               <!-- <a href="https://arxiv.org/abs/2403.10821"><img src="https://img.shields.io/badge/ArXiv-2403.10821-da282a.svg"/></a> -->
               <!-- <a href="https://github.com/SYSU-STAR/H3-Mapping/stargazers"><img alt="Code" src="https://img.shields.io/github/stars/SYSU-STAR/H3-Mapping" /></a> -->
