@@ -61,10 +61,9 @@ author_profile: true
                  Luqi Wang, Yan Ning, <strong>Hongming Chen</strong>, Peize Liu, Yang Xu, Hao Xu, Ximin Lyu, Shaojie Shen
               <br>
               <em> IEEE Transactions on Robotics (T-RO) </em><br>
-              <!-- <a href="https://ieeexplore.ieee.org/document/10602533"><img src="https://img.shields.io/badge/Paper-IEEE RAL-004088.svg"/></a> -->
+              <a href="https://ieeexplore.ieee.org/document/10916509"><img src="https://img.shields.io/badge/Paper-IEEE TRO-004088.svg"/></a>
               <!-- <a href="https://arxiv.org/abs/2403.10821"><img src="https://img.shields.io/badge/ArXiv-2403.10821-da282a.svg"/></a> -->
-              <!-- <a href="https://github.com/SYSU-STAR/H3-Mapping/stargazers"><img alt="Code" src="https://img.shields.io/github/stars/SYSU-STAR/H3-Mapping" /></a> -->
-              <!-- <a href="https://youtu.be/V_V_5q0V1iI"><img alt="Youtube" src="https://img.shields.io/badge/Video-Youtube-red"/></a> -->
+              <a href="https://www.youtube.com/watch?v=S20QSIypYgY&t=13s"><img alt="Youtube" src="https://img.shields.io/badge/Video-Youtube-red"/></a>
               <!-- <a href="https://www.bilibili.com/video/BV16Zt5eBEPW"><img alt="Bilibili" src="https://img.shields.io/badge/Video-Bilibili-blue"/></a> -->
             </td>
           </tr>

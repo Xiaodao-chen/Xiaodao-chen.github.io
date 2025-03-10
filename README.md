@@ -42,3 +42,8 @@ Action
 ```
 bundle exec jekyll serve -l -H localhost  
 ```
+
+If the port is been occupied, try
+```
+jekyll serve --port 4001  
+```
