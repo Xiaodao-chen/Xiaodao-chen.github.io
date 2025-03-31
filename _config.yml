@@ -6,11 +6,12 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+#Former DJI intern| Former Research assistant at ZJU-FAST-Lab | 
 locale                   : "en-US"
 title                    : "Xiaodao's Website"
 title_separator          : "-"
 name                     : &name "Hongming Chen (陈鸿铭)"
-description              : &description "B.Eng, Embedded System, UESTC| Former DJI intern| Former Research assistant at ZJU-FAST-Lab | SYSU MPhil canidate"
+description              : &description "B.Eng, Embedded System, UESTC| SYSU MPhil canidate"
 url                      : https://xiaodao-chen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Xiaodao-chen/xiaodao-chen.github.io"
@@ -79,10 +80,11 @@ analytics:
 
 
 # Site Author
+# Former DJI intern| Former Research assistant at ZJU-FAST-Lab | 
 author:
   name             : "Xiaodao Chen"
   avatar           : "cxd.jpeg"
-  bio              : "B.Eng, Embedded System, UESTC| Former DJI intern| Former Research assistant at ZJU-FAST-Lab | SYSU MPhil canidate"
+  bio              : "B.Eng, Embedded System, UESTC| SYSU MPhil canidate"
   location         : "Chengdu, Sichuan China"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
