@@ -27,7 +27,25 @@ author_profile: true
             </td>
           </tr>
     </table>
-
+    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+              <img src="../images/fermi.png" alt="hpp" style="border-style: none" >
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+                <papertitle>FERMI: Flexible Radio Mapping with a Hybrid Propagation Model and Scalable Autonomous Data Collection
+                </papertitle>
+              <br>
+              Yiming Luo, Yunfei Wang, <strong>Hongming Chen</strong>, Chengkai Wu, Ximin Lyu, JINNI ZHOU, Jun Ma, Fu Zhang, Boyu Zhou
+              <em>Robotics: Science and Systems 2025</em><br>
+              <!-- <a href="https://ieeexplore.ieee.org/document/10602533"><img src="https://img.shields.io/badge/Paper-IEEE RAL-004088.svg"/></a> -->
+              <a href="https://openreview.net/forum?id=NlshucvoIs#discussion"><img src="https://img.shields.io/badge/openreview-RSS2025-green"/></a>
+              <!-- <a href="https://github.com/SYSU-STAR/H3-Mapping/stargazers"><img alt="Code" src="https://img.shields.io/github/stars/SYSU-STAR/H3-Mapping" /></a> -->
+              <!-- <a href="https://youtu.be/BgxVYAVDnjk"><img alt="Youtube" src="https://img.shields.io/badge/Video-Youtube-red"/></a> -->
+              <!-- <a href="https://www.bilibili.com/video/BV1pxcHebEqr"><img alt="Bilibili" src="https://img.shields.io/badge/Video-Bilibili-blue"/></a> -->
+            </td>
+          </tr>
+    </table>
     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
             <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
@@ -48,7 +66,6 @@ author_profile: true
             </td>
           </tr>
     </table>
-
     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
             <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
