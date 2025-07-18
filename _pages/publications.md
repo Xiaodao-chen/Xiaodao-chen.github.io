@@ -5,6 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
+<div class="wordwrap">You can also find my articles on my <a href="https://scholar.google.com.hk/citations?user=41rL5ZgAAAAJ&hl=en">Google Scholar profile</a>.
+
+It's also easier to view them in time order on Google Scholar, as I sort my works here by whether I (co-)lead them.
+</div>
+
+## **Selected Works:**    
+### (Co-)Led by me:  
 <html>
     * means equal contribution
     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
@@ -62,6 +69,10 @@ author_profile: true
             </td>
           </tr>
     </table>
+</html>
+
+### Cooperations:  
+<html>
     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
             <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
