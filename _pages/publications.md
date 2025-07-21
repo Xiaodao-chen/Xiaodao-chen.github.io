@@ -26,7 +26,7 @@ It's also easier to view them in time order on Google Scholar, as I sort my work
               Ziliang Li<sup>*</sup>,  <strong>Hongming Chen<sup>*</sup></strong>, Yiyang Lin, Biyu Ye, Ximin Lyu
               <br>
               <em>IEEE Robotics and Automation Letters underview</em><br>
-              <!-- <a href="https://www.arxiv.org/abs/2506.06804"><img src="https://img.shields.io/badge/ArXiv-2506.06804-da282a.svg"/></a> -->
+              <a href="https://arxiv.org/abs/2507.13903"><img src="https://img.shields.io/badge/ArXiv-2507.13903-da282a.svg"/></a>
               <a href="https://youtu.be/Gie8F62e97Y"><img alt="Youtube" src="https://img.shields.io/badge/Video-Youtube-red"/></a>
               <!-- <a href="https://www.bilibili.com/video/BV1peTrzdE22"><img alt="Bilibili" src="https://img.shields.io/badge/Video-Bilibili-blue"/></a> -->
             </td>
@@ -60,6 +60,7 @@ It's also easier to view them in time order on Google Scholar, as I sort my work
                 </papertitle>
               <br>
               Weiliang Deng<sup>*</sup>, <strong>Hongming Chen<sup>*</sup></strong>, Biyu Ye, Haoran Chen, Ximin Lyu
+              <br>
               <em>IEEE Transactions on Robotics (T-RO) underview</em><br>
               <a href="https://arxiv.org/abs/2501.06493"><img src="https://img.shields.io/badge/ArXiv-2501.06493-da282a.svg"/></a>
               <a href="https://youtu.be/BgxVYAVDnjk"><img alt="Youtube" src="https://img.shields.io/badge/Video-Youtube-red"/></a>
