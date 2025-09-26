@@ -61,7 +61,7 @@ It's also easier to view them in time order on Google Scholar, as I sort my work
               <br>
               Weiliang Deng<sup>*</sup>, <strong>Hongming Chen<sup>*</sup></strong>, Biyu Ye, Haoran Chen, Ximin Lyu
               <br>
-              <em>IEEE Transactions on Robotics (T-RO) underview</em><br>
+              <em>IEEE Transactions on Robotics (T-RO) 2025</em><br>
               <a href="https://arxiv.org/abs/2501.06493"><img src="https://img.shields.io/badge/ArXiv-2501.06493-da282a.svg"/></a>
               <a href="https://youtu.be/BgxVYAVDnjk"><img alt="Youtube" src="https://img.shields.io/badge/Video-Youtube-red"/></a>
               <a href="https://www.bilibili.com/video/BV1pxcHebEqr"><img alt="Bilibili" src="https://img.shields.io/badge/Video-Bilibili-blue"/></a>
@@ -80,9 +80,11 @@ It's also easier to view them in time order on Google Scholar, as I sort my work
                 <strong>Hongming Chen</strong>, Biyu Ye, Xianqi Liang, Weiliang Deng, Ximin Lyu
               <br>
               <em>IEEE International Conference on Robotics and Automation (ICRA), 2025.</em><br>
+              <a href="https://ieeexplore.ieee.org/document/11127414"><img src="https://img.shields.io/badge/Paper-ICRA2025-004088.svg"/></a>
               <a href="https://arxiv.org/abs/2501.06122"><img src="https://img.shields.io/badge/ArXiv-2501.06122-da282a.svg"/></a>
               <a href="https://youtu.be/V_V_5q0V1iI"><img alt="Youtube" src="https://img.shields.io/badge/Video-Youtube-red"/></a>
               <a href="https://www.bilibili.com/video/BV16Zt5eBEPW"><img alt="Bilibili" src="https://img.shields.io/badge/Video-Bilibili-blue"/></a>
+              
             </td>
           </tr>
     </table>
