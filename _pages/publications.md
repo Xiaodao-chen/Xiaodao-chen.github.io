@@ -25,10 +25,11 @@ It's also easier to view them in time order on Google Scholar, as I sort my work
               <br>
               Ziliang Li<sup>*</sup>,  <strong>Hongming Chen<sup>*</sup></strong>, Yiyang Lin, Biyu Ye, Ximin Lyu
               <br>
-              <em>IEEE Robotics and Automation Letters underview</em><br>
+              <em>IEEE Robotics and Automation Letters (RAL) 2025</em><br>
               <a href="https://arxiv.org/abs/2507.13903"><img src="https://img.shields.io/badge/ArXiv-2507.13903-da282a.svg"/></a>
               <a href="https://youtu.be/Gie8F62e97Y"><img alt="Youtube" src="https://img.shields.io/badge/Video-Youtube-red"/></a>
-              <!-- <a href="https://www.bilibili.com/video/BV1peTrzdE22"><img alt="Bilibili" src="https://img.shields.io/badge/Video-Bilibili-blue"/></a> -->
+              <a href="https://bilibili.com/video/BV1JLvwzCEgs"><img alt="Bilibili" src="https://img.shields.io/badge/Video-Bilibili-blue"/></a>
+              <a href="https://aerothrow-ral.github.io/"><img alt="Website" src="https://img.shields.io/badge/Proj-Website-green"/></a>
             </td>
           </tr>
     </table>
@@ -43,7 +44,7 @@ It's also easier to view them in time order on Google Scholar, as I sort my work
               <br>
                <strong>Hongming Chen<sup>*</sup></strong>, Yiyang Lin<sup>*</sup>, Ziliang Li, Biyu Ye, Yuying Zhang, Yongyang Xiong, Ximin Lyu
               <br>
-              <em>IEEE Robotics and Automation Letters underview</em><br>
+              <!-- <em>IEEE Robotics and Automation Letters underview</em><br> -->
               <a href="https://www.arxiv.org/abs/2506.06804"><img src="https://img.shields.io/badge/ArXiv-2506.06804-da282a.svg"/></a>
               <a href="https://youtu.be/FL_mQ7JLibM"><img alt="Youtube" src="https://img.shields.io/badge/Video-Youtube-red"/></a>
               <a href="https://www.bilibili.com/video/BV1peTrzdE22"><img alt="Bilibili" src="https://img.shields.io/badge/Video-Bilibili-blue"/></a>
@@ -62,10 +63,11 @@ It's also easier to view them in time order on Google Scholar, as I sort my work
               Weiliang Deng<sup>*</sup>, <strong>Hongming Chen<sup>*</sup></strong>, Biyu Ye, Haoran Chen, Ziliang Li, Ximin Lyu
               <br>
               <em>IEEE Transactions on Robotics (T-RO) 2025</em><br>
+              <a href="https://ieeexplore.ieee.org/document/11219352"><img src="https://img.shields.io/badge/Paper-IEEE TRO-004088.svg"/></a>
               <a href="https://arxiv.org/abs/2501.06493"><img src="https://img.shields.io/badge/ArXiv-2501.06493-da282a.svg"/></a>
               <a href="https://youtu.be/BgxVYAVDnjk"><img alt="Youtube" src="https://img.shields.io/badge/Video-Youtube-red"/></a>
               <a href="https://www.bilibili.com/video/BV1pxcHebEqr"><img alt="Bilibili" src="https://img.shields.io/badge/Video-Bilibili-blue"/></a>
-              <a href="https://am-planner.github.io/"><img alt="Website" src="https://img.shields.io/badge/Proj-Website-blue"/></a>
+              <a href="https://am-planner.github.io/"><img alt="Website" src="https://img.shields.io/badge/Proj-Website-green"/></a>
             </td>
           </tr>
     </table>

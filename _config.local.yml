@@ -1,0 +1,27 @@
+# Local development override settings
+# This file disables plugins that require network access
+
+url: http://localhost:4000
+
+# Disable GitHub metadata to avoid SSL certificate issues
+repository: ""
+
+# Disable analytics for local development
+analytics:
+  provider: false
+
+# Disable comments for local development
+comments:
+  provider: false
+
+# Override plugins to exclude github-metadata
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-redirect-from
+
+sass:
+  style: expanded
+

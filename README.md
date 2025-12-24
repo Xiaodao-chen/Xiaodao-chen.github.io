@@ -18,12 +18,63 @@ See more info at https://academicpages.github.io/
 
 ## To run locally (not on GitHub Pages, to serve on your own computer)
 
+### For Linux:
 1. Clone the repository and made updates as detailed above
 1. Make sure you have ruby-dev, bundler, and nodejs installed: `sudo apt install ruby-dev ruby-bundler nodejs`
 1. Run `bundle clean` to clean up the directory (no need to run `--force`)
 1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
-1. Run `bundle exec jekyll liveserve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
+1. Run `bundle exec jekyll serve` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
 
+### For Mac:
+1. **Install Homebrew** (if not already installed):
+   ```bash
+   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   ```
+
+2. **Install rbenv and ruby-build**:
+   ```bash
+   brew install rbenv ruby-build
+   ```
+
+3. **Configure rbenv** (add to your `~/.zshrc` or `~/.bash_profile`):
+   ```bash
+   echo 'eval "$(rbenv init - zsh)"' >> ~/.zshrc
+   source ~/.zshrc
+   ```
+
+4. **Install Ruby 3.3.6**:
+   ```bash
+   rbenv install 3.3.6
+   ```
+
+5. **Set Ruby version for this project**:
+   ```bash
+   cd /path/to/your/repository
+   rbenv local 3.3.6
+   ```
+
+6. **Install Bundler**:
+   ```bash
+   gem install bundler:2.6.9
+   ```
+
+7. **Install dependencies**:
+   ```bash
+   bundle install
+   ```
+
+8. **Run Jekyll server**:
+   ```bash
+   bundle exec jekyll serve --config _config.yml,_config.local.yml
+   ```
+   
+   The site will be available at `http://localhost:4000/`
+
+9. **Alternative commands**:
+   - If port 4000 is occupied: `bundle exec jekyll serve --config _config.yml,_config.local.yml --port 4001`
+   - With live reload: `bundle exec jekyll serve --config _config.yml,_config.local.yml -l`
+   - Bind to specific host: `bundle exec jekyll serve --config _config.yml,_config.local.yml -H localhost`
+3. `bundle exec jekyll serve --config _config.yml,_config.local.yml`
 # Changelog -- bugfixes and enhancements
 
 There is one logistical issue with a ready-to-fork template theme like academic pages that makes it a little tricky to get bug fixes and updates to the core theme. If you fork this repository, customize it, then pull again, you'll probably get merge conflicts. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch. 
@@ -38,12 +89,20 @@ about.md
 publications.md
 ```
 
-Action
-```
-bundle exec jekyll serve -l -H localhost  
+## Quick Start (for Mac users who have already set up)
+
+Once you've completed the initial setup above, you can simply run:
+
+```bash
+bundle exec jekyll serve --config _config.yml,_config.local.yml
 ```
 
-If the port is been occupied, try
+Or with live reload and custom host:
+```bash
+bundle exec jekyll serve --config _config.yml,_config.local.yml -l -H localhost
 ```
-jekyll serve --port 4001  
+
+If the port is occupied, try:
+```bash
+bundle exec jekyll serve --config _config.yml,_config.local.yml --port 4001
 ```
