@@ -87,6 +87,7 @@ It's also easier to view them in time order on Google Scholar, as I sort my work
               <a href="https://arxiv.org/abs/2501.06122"><img src="https://img.shields.io/badge/ArXiv-2501.06122-da282a.svg"/></a>
               <a href="https://youtu.be/V_V_5q0V1iI"><img alt="Youtube" src="https://img.shields.io/badge/Video-Youtube-red"/></a>
               <a href="https://www.bilibili.com/video/BV16Zt5eBEPW"><img alt="Bilibili" src="https://img.shields.io/badge/Video-Bilibili-blue"/></a>
+              <a href="https://aerial-manipulator-icra.github.io/"><img alt="Website" src="https://img.shields.io/badge/Proj-Website-green"/></a>
               
             </td>
           </tr>
