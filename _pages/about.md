@@ -11,10 +11,10 @@ description: Thme homepage of Hongming Chen
 
 Hello there, I'm Hongming Chen (陈鸿铭), currently a MPhil. student of [Sun Yat Sen University](https://www.sysu.edu.cn/sysuen/) (2024-Present), supervised by Prof. [Ximin Lyu](https://ise.sysu.edu.cn/teacher/teacher02/1393268.htm) (吕熙敏). I received my bachelor's degree (2020-2024) at [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), majoring in Embedded Systems, supervised by Prof. [Yong Liao](https://sise.uestc.edu.cn/info/1035/5650.htm) (廖勇). Previously, I joined the [ZJU Fast Lab](http://zju-fast.com/) as a research asssistant, supervised by Prof. [Fei Gao](https://person.zju.edu.cn/fgaoaa) (高飞) and worked as an intern at the Autonomous driving department, [DJI](https://www.dji.com/cn).
 
-My research interests include the aeras of **Robotics** and **Scene Understanding**, with focus on:
+My research interests include the areas of **Robotics** and **Scene Understanding**, with focus on:
+* Humanoid Intelligence
 * Motion planning
 * Semantic navigation
-* State Esimation
 
 Feel free to ask me about <!--UAV,--> Jetson Orin, Motion planning, Computer network, RTOS. Please contact me at <xiaodao.chem@gmail.com>.
 
@@ -28,7 +28,8 @@ Education
 
 Internship
 ======
-* Autonomous driving department, DJI Technology Inc.
+* Autonomous Driving Department, DJI Technology Inc. (Jan. 2023 - Jul. 2023)
+* Humanoid Algorithm Engineer, Light Origins (Present)
 
 Selected Honors
 ======
