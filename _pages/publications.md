@@ -26,6 +26,7 @@ It's also easier to view them in time order on Google Scholar, as I sort my work
               <strong>Hongming Chen</strong>, Zhuoran Li, Hongxi Wang, Jiangpeng Hu, Ziliang Li, Peize Liu, QingRui Zhao, Xuhao Liu, Liang Pan, Ximin Lyu, Yuntao Ma, Tingxiang Fan
               <br>
               <em>Transactions on Robotics (T-RO) underreview</em><br>
+              <a href="https://arxiv.org/abs/2608.02653"><img src="https://img.shields.io/badge/ArXiv-2608.02653-da282a.svg"/></a>
               <a href="https://www.youtube.com/watch?v=96Rfm7OmHjY"><img alt="Youtube" src="https://img.shields.io/badge/Video-Youtube-red"/></a>
               <a href="https://bilibili.com/video/BV1rqMo6XEy4/?spm_id_from=333.337.search-card.all.click"><img alt="Bilibili" src="https://img.shields.io/badge/Video-Bilibili-blue"/></a>
               <a href="https://light-loco-parkour.github.io/"><img alt="Website" src="https://img.shields.io/badge/Proj-Website-green"/></a>
