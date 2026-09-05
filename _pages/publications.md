@@ -118,6 +118,25 @@ It's also easier to view them in time order on Google Scholar, as I sort my work
     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
             <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+              <img src="https://www.lightorigins.com/assets/lightnav-cover.jpg" alt="LightNav-0" style="border-style: none" >
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+                <papertitle>LightNav-0: Eliciting VLM Spatial Intelligence for Generalist Embodied Navigation
+                </papertitle>
+              <br>
+              Shaoan Wang, Aocheng Luo, Fei Huang, Jingyi Xu, Xiaoyang Wang, Yueyu Wang, Qianli Ma, Fan Yang, Ran Mei, Jia Wei, Jiangpeng Hu, Xuhao Liu, <strong>Hongming Chen</strong>, Yuanbin Shao, Yiyang Lin, Ziliang Li, Liang Pan, Xinhang Liu, Yuntao Ma, Tingxiang Fan
+              <br>
+              <em>Technical Report, 2026</em><br>
+              <a href="https://arxiv.org/abs/2608.30935"><img src="https://img.shields.io/badge/ArXiv-2608.30935-da282a.svg"/></a>
+              <a href="https://www.lightorigins.com/en/blog/lightnav-0"><img alt="Blog" src="https://img.shields.io/badge/Proj-Blog-green"/></a>
+              <a href="https://www.youtube.com/watch?v=Lkd81YCedLk"><img alt="Youtube" src="https://img.shields.io/badge/Video-Youtube-red"/></a>
+              <a href="https://space.bilibili.com/3707030793619812"><img alt="Bilibili" src="https://img.shields.io/badge/Video-Bilibili-blue"/></a>
+            </td>
+          </tr>
+    </table>
+    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
               <img src="../images/tunnel.gif" alt="hpp" style="border-style: none" >
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
