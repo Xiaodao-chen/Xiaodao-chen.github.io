@@ -6,30 +6,30 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-description: Thme homepage of Hongming Chen
+description: The homepage of Hongming Chen
 ---
 
-Hello there, I'm Hongming Chen (陈鸿铭), currently a MPhil. student of [Sun Yat Sen University](https://www.sysu.edu.cn/sysuen/) (2024-Present), supervised by Prof. [Ximin Lyu](https://ise.sysu.edu.cn/teacher/teacher02/1393268.htm) (吕熙敏). I received my bachelor's degree (2020-2024) at [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/), majoring in Embedded Systems, supervised by Prof. [Yong Liao](https://sise.uestc.edu.cn/info/1035/5650.htm) (廖勇). Previously, I joined the [ZJU Fast Lab](http://zju-fast.com/) as a research asssistant, supervised by Prof. [Fei Gao](https://person.zju.edu.cn/fgaoaa) (高飞) and worked as an intern at the Autonomous driving department, [DJI](https://www.dji.com/cn).
+Hello there, I'm Hongming Chen, an incoming Ph.D. student at [The University of Hong Kong (HKU)](https://www.hku.hk/), where I am delighted to have the opportunity to pursue my doctoral studies under the supervision of Prof. [Ping Luo](https://www.ai.hku.hk/index.php/people/academic-staff/pluo). I received my bachelor's degree from the [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/) (2020–2024), majoring in Embedded Systems under the supervision of Prof. [Yong Liao](https://sise.uestc.edu.cn/info/1035/5650.htm).
 
 My research interests include the areas of **Robotics** and **Scene Understanding**, with focus on:
 * Humanoid Intelligence
 * Motion planning
 * Semantic navigation
 
-Feel free to ask me about <!--UAV,--> Jetson Orin, Motion planning, Computer network, RTOS. Please contact me at <xiaodao.chem@gmail.com>.
+I am always open to academic collaboration and happy to discuss interesting research topics. Feel free to contact me at <xiaodao.chem@gmail.com>.
 
 Education
 ======
-* MPhil. Sun Yat Sen University, 2024 - Present
-  * Major: Control Science and Engineering, Supervisor: Prof. [Ximin Lyu]
+* MPhil, Sun Yat-sen University, 2024–Present
+  * Major: Control Science and Engineering
 
-* B.Eng. University of Electronic Science and Technology of China, 2020 - 2024
+* B.Eng., University of Electronic Science and Technology of China, 2020–2024
   * Major: Embedded Systems, Software Engineering <!--, Supervisor: Prof. [Yong Liao] -->
 
 Internship
 ======
 * Autonomous Driving Department, DJI Technology Inc. (Jan. 2023 - Jul. 2023)
-* Humanoid Algorithm Engineer, Light Origins (Present)
+* Research Algorithm Engineer, Light Origins (Present)
 
 Selected Honors
 ======
@@ -47,4 +47,4 @@ Selected Honors
   * ELEC2400: Electronic Circuits, HKUST, 2023-2024 Fall -->
 
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=zw1CZ4g3Kbf6u9w4XDWIXx-bCowhVDbx6o6tsQXJeIE&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+<script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=n&d=zw1CZ4g3Kbf6u9w4XDWIXx-bCowhVDbx6o6tsQXJeIE&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
