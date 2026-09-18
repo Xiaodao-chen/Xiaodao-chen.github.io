@@ -118,6 +118,23 @@ It's also easier to view them in time order on Google Scholar, as I sort my work
     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
             <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+              <img src="https://www.lightorigins.com/assets/light-react-cover.jpg" alt="Light REACT" style="border-style: none" >
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+                <papertitle>Light REACT: Building Resilient Whole-Body Intelligence for Scalable Deployment
+                </papertitle>
+              <br>
+              Light Origins
+              <br>
+              <em>Technical Blog, 2026</em><br>
+              <a href="https://www.lightorigins.com/en/blog/light-react"><img alt="Blog" src="https://img.shields.io/badge/Proj-Blog-green"/></a>
+              <a href="https://www.bilibili.com/video/BV1PxYn6QERc/"><img alt="Bilibili" src="https://img.shields.io/badge/Video-Bilibili-blue"/></a>
+            </td>
+          </tr>
+    </table>
+    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
               <img src="https://www.lightorigins.com/assets/lightnav-cover.jpg" alt="LightNav-0" style="border-style: none" >
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
