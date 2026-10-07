@@ -118,7 +118,23 @@ It's also easier to view them in time order on Google Scholar, as I sort my work
     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
             <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-              <img src="https://www.lightorigins.com/assets/light-react-cover.jpg" alt="Light REACT" style="border-style: none" >
+              <img src="{{ '/images/light-o1-cover.jpg' | relative_url }}" alt="Light-O1" style="border-style: none" >
+            </td>
+            <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+                <papertitle>Light-O1: Scaling Whole-Body Intelligence with Human Action Pretraining
+                </papertitle>
+              <br>
+              Light Origins
+              <br>
+              <em>Technical Blog, 2026</em><br>
+              <a href="https://www.lightorigins.com/en/blog/light-o1"><img alt="Blog" src="https://img.shields.io/badge/Proj-Blog-green"/></a>
+            </td>
+          </tr>
+    </table>
+    <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
+          <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
+            <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
+              <img src="{{ '/images/light-react-cover.jpg' | relative_url }}" alt="Light REACT" style="border-style: none" >
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
                 <papertitle>Light REACT: Building Resilient Whole-Body Intelligence for Scalable Deployment
@@ -135,7 +151,7 @@ It's also easier to view them in time order on Google Scholar, as I sort my work
     <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
           <tr onmouseout="nightsight_stop()" onmouseover="nightsight_start()">
             <td style="padding:20px;width:25%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
-              <img src="https://www.lightorigins.com/assets/lightnav-cover.jpg" alt="LightNav-0" style="border-style: none" >
+              <img src="{{ '/images/lightnav-cover.jpg' | relative_url }}" alt="LightNav-0" style="border-style: none" >
             </td>
             <td style="padding:20px;width:75%;vertical-align:middle;border-left-style:none;border-bottom-style:none;border-top-style:none;border-right-style:none">
                 <papertitle>LightNav-0: Eliciting VLM Spatial Intelligence for Generalist Embodied Navigation
